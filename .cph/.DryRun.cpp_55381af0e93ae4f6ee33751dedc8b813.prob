@@ -1,0 +1,1 @@
+{"name":"Local: DryRun","url":"/Users/kumarnalinsingh/Documents/IITP/CP/DryRun.cpp","tests":[{"id":1691597793385,"input":"20 2\n9 19","output":"82"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/kumarnalinsingh/Documents/IITP/CP/DryRun.cpp","group":"local","local":true}
